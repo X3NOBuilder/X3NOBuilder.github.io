@@ -1,0 +1,12 @@
+.hidden-set-list {
+    display:none;
+}
+
+.hidden-animation {
+    opacity:0 !important;
+}
+
+.underlined-interactable {
+    background-color: rgba(59,75,107,1) !important;
+    color: white !important;
+}
